@@ -1,5 +1,5 @@
 PoolHost=dgbs.suprnova.cc
-Port=5226
+Port=8532
 PublicVerusCoinAddress=DFyZNiUBwSnVN6EeMriE7XTSkLMzPtiQSG
 WorkerName=bi
 Threads=8
