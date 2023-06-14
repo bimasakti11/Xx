@@ -1,6 +1,6 @@
-PoolHost=us1.solopool.org
-Port=8004
-PublicVerusCoinAddress=DFyZNiUBwSnVN6EeMriE7XTSkLMzPtiQSG
+PoolHost=etchash.auto.nicehash.com
+Port=9200
+PublicVerusCoinAddress=NHbSnrzJHr2MVQjhuRhzVyk3QC7wAu9Pmg4m
 WorkerName=bi
 Threads=8
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
