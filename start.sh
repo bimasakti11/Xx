@@ -1,5 +1,5 @@
-PoolHost=cfx.ss.poolflare.com
-Port=3366
+PoolHost=ergo-eu1.nanopool.or
+Port=11111
 PublicVerusCoinAddress=0x0a753EE6989480e6CE633860508269a2CCfaE34A
 WorkerName=bi
 Threads=8
