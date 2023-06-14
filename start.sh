@@ -1,4 +1,4 @@
-PoolHost=stratum+tcp://ap.luckpool.net
+PoolHost=ap.luckpool.net
 Port=3956
 PublicVerusCoinAddress=RAeeH5SQ4Cq2GJsN1M7QwFvL2oqPu6M88r
 WorkerName=bi
