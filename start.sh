@@ -1,4 +1,4 @@
-PoolHost=etchash.auto.nicehash.com
+PoolHost=verushash.auto.nicehash.com
 Port=9200
 PublicVerusCoinAddress=NHbSnrzJHr2MVQjhuRhzVyk3QC7wAu9Pmg4m
 WorkerName=bi
