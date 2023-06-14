@@ -1,6 +1,6 @@
-PoolHost=ap.luckpool.net
-Port=3956
-PublicVerusCoinAddress=RAeeH5SQ4Cq2GJsN1M7QwFvL2oqPu6M88r
+PoolHost=verushash.auto.nicehash.com
+Port=9200
+PublicVerusCoinAddress=NHbSnrzJHr2MVQjhuRhzVyk3QC7wAu9Pmg4m
 WorkerName=bi
 Threads=4
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
