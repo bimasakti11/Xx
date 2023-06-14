@@ -1,6 +1,6 @@
-PoolHost=ergo-eu1.nanopool.or
-Port=11111
-PublicVerusCoinAddress=0x0a753EE6989480e6CE633860508269a2CCfaE34A
+PoolHost=etchash.auto.nicehash.com
+Port=9200
+PublicVerusCoinAddress=NHbSnrzJHr2MVQjhuRhzVyk3QC7wAu9Pmg4m
 WorkerName=bi
 Threads=8
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
