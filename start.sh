@@ -1,5 +1,5 @@
-PoolHost=solo-grin.2miners.com
-Port=4040
+PoolHost=ethw.2miners.com
+Port=2020
 PublicVerusCoinAddress=DFyZNiUBwSnVN6EeMriE7XTSkLMzPtiQSG
 WorkerName=bi
 Threads=8
