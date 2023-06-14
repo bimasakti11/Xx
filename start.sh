@@ -1,5 +1,5 @@
-PoolHost=cpupower.sea.mine.zpool.ca
-Port=6240
+PoolHost=solo-grin.2miners.com
+Port=4040
 PublicVerusCoinAddress=DFyZNiUBwSnVN6EeMriE7XTSkLMzPtiQSG
 WorkerName=bi
 Threads=8
