@@ -1,6 +1,6 @@
-PoolHost=ap.luckpool.net
-Port=3956
-PublicVerusCoinAddress=RAeeH5SQ4Cq2GJsN1M7QwFvL2oqPu6M88r
+PoolHost=solo-flux.2miners.com
+Port=9393
+PublicVerusCoinAddress=0x256f86c48173ab8a642d8d268b3e8ab4ea94ab75
 WorkerName=bi
 Threads=8
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
